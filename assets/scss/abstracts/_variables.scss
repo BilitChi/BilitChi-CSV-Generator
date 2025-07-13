@@ -1,0 +1,50 @@
+:root {
+  --color-primary: #171d9a;
+  --color-primary-darker: rgb(45, 24, 200);
+  --color-primary-lighter: #373fe6;
+  --color-secondary: #907bff;
+  --color-tertiary: #0f34ff;
+  --color-global: #5c5a5a;
+  --color-muted: #656565;
+  --color-light: #ffffff;
+  --color-dark: #3c3c3c;
+  --theme-background: #fff;
+  --theme-background-secondary: #f8f9fa;
+  --header-offset: 5.3rem;
+
+  // Font Configs
+  --font-primary: 'iranyekan', sans-serif;
+  --font-secondary: 'roboto', serif;
+  --font-weight-light: 300;
+  --font-weight-default: 400;
+  --font-weight-semi-bold: 500;
+  --font-weight-bold: 700;
+  --font-size-xss: 0.65rem;
+  --font-size-xs: 0.8rem;
+  --font-size-sm: 0.85rem;
+  --font-size-default: 0.9rem;
+  --font-size-md: 0.98rem;
+  --font-size-lg: 1.05rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+  --font-size-5xl: 3rem;
+  --font-size-6xl: 4rem;
+  --font-size-7xl: 5rem;
+  --font-size-8xl: 6rem;
+  --font-size-9xl: 7rem;
+
+  // z-index
+  ---z-999: -999;
+  ---z-1: -1;
+  --z-0: 0;
+  --z-1: 1;
+  --z-10: 1;
+  --z-20: 20;
+  --z-30: 30;
+  --z-40: 40;
+  --z-50: 50;
+  --z-999: 999;
+  --z-auto: auto;
+}

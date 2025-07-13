@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.box {
+  @apply bg-gray-100 p-8 rounded-md;
+}
+
+.section-title {
+  @apply font-bold text-xlg text-gray-900;
+}
+
+.c-button {
+  @apply bg-primary text-white min-w-32 p-3 font-bold rounded-md hover:bg-[var(--color-primary-darker)] transition;
+}
+
+.c-button--secondary {
+  @apply bg-gray-300 text-gray-700 min-w-32 p-3 font-bold rounded-md hover:bg-gray-400 transition;
+}

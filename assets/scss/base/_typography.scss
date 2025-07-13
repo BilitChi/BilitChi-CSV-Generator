@@ -1,0 +1,10 @@
+@import '../fonts/typography.css';
+
+body {
+  font-size: var(--font-size-default);
+  line-height: 1.6;
+  font-weight: var(--font-weight-default);
+  font-family: var(--font-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
