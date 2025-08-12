@@ -62,7 +62,7 @@
 
         if (isChild) {
           birthYear = '1401';
-          birthMonth = '6';
+          birthMonth = '06';
           birthDay = '25';
         }
 
